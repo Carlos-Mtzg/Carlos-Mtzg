@@ -40,8 +40,8 @@
 
 ## GitHub Stats
 <div style="display: flex; gap: 8px">
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=280" />
 </div>
 
 </br>
