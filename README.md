@@ -17,8 +17,9 @@
 * 🚀 Skilled in Symfony, Spring Boot, and modern web design practices, I strive to build responsive and impactful web solutions.
 * 📬 How to reach me: carlos.mtzg2004@gmail.com
 
+<br>
 
-### Technologies 💻
+## Technologies 💻
 ![HTML5](https://img.shields.io/badge/html5-3C3C3D.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![Java](https://img.shields.io/badge/java-8B89CC.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-3C3C3D.svg?style=for-the-badge&logo=javascript&logoColor=white)
@@ -35,13 +36,17 @@
 ![SonarQube](https://img.shields.io/badge/SonarQube-8B89CC?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
 ![Figma](https://img.shields.io/badge/figma-3C3C3D.svg?style=for-the-badge&logo=figma&logoColor=white)
 
+<br>
 
+## GitHub Stats
 <div style="display: flex; gap: 8px">
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-<img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=300" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </div>
 
 </br>
+
+## My Latest YouTube Videos 
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![CRUD Symfony - Validaciones y Alertas #5 🟣](https://ytcards.demolab.com/?id=qNZVFl5sbpU&title=CRUD+Symfony+-+Validaciones+y+Alertas+%235+%F0%9F%9F%A3&lang=en&timestamp=1722628806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CRUD Symfony - Validaciones y Alertas #5 🟣")](https://www.youtube.com/watch?v=qNZVFl5sbpU)
