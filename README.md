@@ -26,22 +26,22 @@
 ![CSS3](https://img.shields.io/badge/css3-8B89CC.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-3C3C3D.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![React](https://img.shields.io/badge/react-8B89CC.svg?style=for-the-badge&logo=react&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-8B89CC.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![GitLab](https://img.shields.io/badge/gitlab-3C3C3D.svg?style=for-the-badge&logo=gitlab&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-3C3C3D.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![GitLab](https://img.shields.io/badge/gitlab-8B89CC.svg?style=for-the-badge&logo=gitlab&logoColor=white)
 ![Git](https://img.shields.io/badge/git-8B89CC.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-3C3C3D.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-8B89CC.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![PHP](https://img.shields.io/badge/php-3C3C3D.svg?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-3C3C3D.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![SonarQube](https://img.shields.io/badge/SonarQube-8B89CC?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
-![Figma](https://img.shields.io/badge/figma-3C3C3D.svg?style=for-the-badge&logo=figma&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-8B89CC.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![SonarQube](https://img.shields.io/badge/SonarQube-3C3C3D?style=for-the-badge&logo=sonarqube&logoColor=4E9BCD)
+![Figma](https://img.shields.io/badge/figma-8B89CC.svg?style=for-the-badge&logo=figma&logoColor=white)
 
 <br>
 
 ## GitHub Stats
-<div style="display: flex; gap: 8px">
+<div style="display: flex; justify-content: space-between;">
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
-<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=280" />
+<img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </div>
 
 </br>
