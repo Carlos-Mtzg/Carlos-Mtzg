@@ -11,13 +11,15 @@
   </a>
 </div>
 
+
 ### A passionate web developer from México 🇲🇽
 * 🌐 I specialize in web development, with a strong focus on frontend technologies and creating seamless, visually appealing user experiences.
 * 💻 I’m currently part of A3E Ingenieros, contributing to innovative projects in the energy sector.
 * 🚀 Skilled in Symfony, Spring Boot, and modern web design practices, I strive to build responsive and impactful web solutions.
 * 📬 How to reach me: carlos.mtzg2004@gmail.com
 
-<br>
+<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-mtzg&label=Profile%20views&color=9745F5&style=for-the-badge" alt="carlos-mtzg" /> </p>
 
 ## Technologies 💻
 ![HTML5](https://img.shields.io/badge/html5-3C3C3D.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -43,8 +45,10 @@
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </div>
+<br>
+<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Carlos-Mtzg&column=9&margin-w=18&margin-h=20&theme=onestar" alt="Carlos-Mtzg achievements" /></a> </p>
 
-</br>
+<br>
 
 ## My Latest YouTube Videos 
 
