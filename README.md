@@ -46,6 +46,7 @@
 ![Canva](https://img.shields.io/badge/canva-3C3C3D.svg?style=for-the-badge&logo=canva&logoColor=white)
 ![Notion](https://img.shields.io/badge/notion-8B89CC.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![JWT](https://img.shields.io/badge/jwt-3C3C3D.svg?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-8B89CC.svg?style=for-the-badge&logo=docker&logoColor=white)
 
 <br>
 
