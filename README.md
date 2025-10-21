@@ -9,6 +9,9 @@
   <a href="https://www.instagram.com/carlos_mart_go/" target="_blank" style="text-decoration: none">
     <img src="https://img.shields.io/badge/Instagram-8B89CC.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram Badge">
   </a>
+  <a href="https://carlos-mtzg.github.io/carlos-portfolio/" target="_blank" style="text-decoration: none">
+    <img src="https://img.shields.io/badge/Portafolio-9745F5?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio Web"/>
+  </a>
 </div>
 
 
@@ -19,19 +22,7 @@
 * 📬 Cómo contactarme: carlos.mtzg2004@gmail.com
 
 <br/>
-
-<table>
-  <tr>
-    <td>
-      <a href="https://carlos-mtzg.github.io/carlos-portfolio/" target="_blank">
-        <img src="https://img.shields.io/badge/Visita%20mi%20Portafolio-9745F5?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio Web"/>
-      </a>
-    </td>
-    <td>
-      <img src="https://komarev.com/ghpvc/?username=carlos-mtzg&label=Visitas%20al%20perfil&color=9745F5&style=for-the-badge" alt="carlos-mtzg" />
-    </td>
-  </tr>
-</table>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-mtzg&label=Visitas%20al%20perfil&color=9745F5&style=for-the-badge" alt="carlos-mtzg" /> </p>
 
 ## Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-8B89CC.svg?style=for-the-badge&logo=html5&logoColor=white)
