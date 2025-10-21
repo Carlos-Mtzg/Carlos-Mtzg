@@ -19,7 +19,19 @@
 * 📬 Cómo contactarme: carlos.mtzg2004@gmail.com
 
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=carlos-mtzg&label=Visitas%20al%20perfil&color=9745F5&style=for-the-badge" alt="carlos-mtzg" /> </p>
+
+<table>
+  <tr>
+    <td>
+      <a href="https://carlos-mtzg.github.io/carlos-portfolio/" target="_blank">
+        <img src="https://img.shields.io/badge/Visita%20mi%20Portafolio-9745F5?style=for-the-badge&logo=web&logoColor=white" alt="Portafolio Web"/>
+      </a>
+    </td>
+    <td>
+      <img src="https://komarev.com/ghpvc/?username=carlos-mtzg&label=Visitas%20al%20perfil&color=9745F5&style=for-the-badge" alt="carlos-mtzg" />
+    </td>
+  </tr>
+</table>
 
 ## Tecnologías 💻
 ![HTML5](https://img.shields.io/badge/html5-8B89CC.svg?style=for-the-badge&logo=html5&logoColor=white)
