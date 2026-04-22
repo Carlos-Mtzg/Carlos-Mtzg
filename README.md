@@ -59,7 +59,6 @@
 <img height=180 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true&layout=compact&langs_count=8&card_width=320" />
 </div>
 <br>
-<p align="left"><img src="https://github-profile-trophy.vercel.app/?username=Carlos-Mtzg&column=9&margin-w=18&margin-h=20&theme=onestar" alt="Logros de Carlos-Mtzg" /></a> </p>
 
 <br>
 
