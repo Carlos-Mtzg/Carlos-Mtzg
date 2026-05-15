@@ -29,19 +29,19 @@
 
 ---
 
-## 🚀 Sobre mí
+## Sobre mí
 
-- 💼 **Full-Stack Developer** en [A3E Ingenieros](https://www.a3eingenieros.com) — sector energético
-- 🏢 **Co-fundador & Backend Architect** en [NGC Software Solutions](https://ngcsoftwaresolutions.com) — sistemas a medida para sectores energético, médico y agroindustrial
-- 🔐 Experiencia en seguridad: **Spring Security, JWT stateless, RBAC, refresh tokens con HttpOnly cookies**
-- ⚡ He desarrollado plataformas con **datos en tiempo real** (SSE + ClickHouse) y editores visuales con canvas drag-and-drop
-- 🏥 Sistemas desplegados en producción en sectores **energético, médico y agroindustrial**
-- 🎓 Cursando Ingeniería en Desarrollo y Gestión de Software — UTEZ
-- 🌐 Abierto a oportunidades **remotas y presenciales** en LATAM y globales
+- **Full-Stack Developer** en [A3E Ingenieros](https://www.a3eingenieros.com) — sector energético
+- **Co-fundador & Backend Architect** en [NGC Software Solutions](https://ngcsoftwaresolutions.com) — sistemas a medida para sectores energético, médico y agroindustrial
+- Experiencia en seguridad: **Spring Security, JWT stateless, RBAC, refresh tokens con HttpOnly cookies**
+- He desarrollado plataformas con **datos en tiempo real** (SSE + ClickHouse) y editores visuales con canvas drag-and-drop
+- Sistemas desplegados en producción en sectores **energético, médico y agroindustrial**
+- Cursando Ingeniería en Desarrollo y Gestión de Software — UTEZ
+- Abierto a oportunidades **remotas y presenciales** en LATAM y globales
 
 ---
 
-## 🛠️ Stack técnico
+## Stack técnico
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-3C3C3D.svg?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -65,9 +65,9 @@
 
 ---
 
-## 📌 Proyectos destacados
+## Proyectos destacados
 
-### ⚡ Monitor I3 — Plataforma de Monitoreo Eléctrico en Tiempo Real
+### Monitor I3 — Plataforma de Monitoreo Eléctrico en Tiempo Real
 > Plataforma completa para el cumplimiento del Código de Red mexicano con telemetría en vivo.
 
 - Actualizaciones en tiempo real con **Server-Sent Events (SSE)** y series de tiempo desde **ClickHouse**
@@ -77,7 +77,7 @@
 
 ---
 
-### 🏥 Sistema de Gestión de Expedientes Clínicos — Clínica San Juan
+### Sistema de Gestión de Expedientes Clínicos — Clínica San Juan
 > Sistema integral On-Premise para digitalizar la gestión clínica completa.
 
 - Módulos de pacientes, expedientes médicos, agenda de consultas y generación de reportes
@@ -87,7 +87,7 @@
 
 ---
 
-### 🛒 GECOM — Sistema de Gestión de Compras
+### GECOM — Sistema de Gestión de Compras
 > Plataforma web integral para la gestión interna de requisiciones, proyectos y usuarios.
 
 - Autenticación segura con **JWT**, flujos de registro con **activación por correo** y recuperación de contraseña
@@ -95,7 +95,7 @@
 
 ---
 
-### 🏢 NGC Official Site *(Co-fundador · NGC Software Solutions)*
+### NGC Official Site *(Co-fundador · NGC Software Solutions)*
 > Sitio corporativo de NGC Software Solutions — empresa de desarrollo de software a medida que co-fundé junto con 2 ingenieros en Cuernavaca, México.
 
 - Arquitectura **Next.js 16 App Router** con **TypeScript** al 100%
@@ -110,7 +110,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## Estadísticas de GitHub
 
 <div align="center">
   <img height=180 src="https://github-readme-stats.vercel.app/api?username=Carlos-Mtzg&theme=midnight-purple&show_icons=true&hide_border=true&count_private=true" />
@@ -119,7 +119,7 @@
 
 ---
 
-## 📺 Últimos videos de YouTube
+## Últimos videos de YouTube
 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![CRUD Symfony - Validaciones y Alertas #5 🟣](https://ytcards.demolab.com/?id=qNZVFl5sbpU&title=CRUD+Symfony+-+Validaciones+y+Alertas+%235+%F0%9F%9F%A3&lang=es&timestamp=1722628806&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5 "CRUD Symfony - Validaciones y Alertas #5 🟣")](https://www.youtube.com/watch?v=qNZVFl5sbpU)
